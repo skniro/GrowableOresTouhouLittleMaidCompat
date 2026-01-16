@@ -21,6 +21,9 @@
     ],
     "main": [
       "com.skniro.growable_ores_touhou_little_maid_compat.GrowableOresExtension"
+    ],
+    "little_maid_extension": [
+      "com.skniro.growable_ores_touhou_little_maid_compat.LittleMaidCompat"
     ]
   },
   "mixins": [

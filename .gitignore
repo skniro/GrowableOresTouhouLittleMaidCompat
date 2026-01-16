@@ -119,3 +119,4 @@ run/
 /target/
 /Neoforge/src/main/generated/.cache/
 /Neoforge/runs/
+/Fabric/libs/

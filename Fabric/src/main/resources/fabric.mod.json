@@ -33,6 +33,7 @@
     "fabricloader": ">=0.15.11",
     "fabric": "*",
     "minecraft": "1.21.x",
-    "growable_ores": "*"
+    "growable_ores": "*",
+    "touhou_little_maid": "*"
   }
 }

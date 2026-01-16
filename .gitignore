@@ -113,10 +113,10 @@ gradle-app.setting
 
 # Common working directory
 run/
+run/
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
 /target/
 /Neoforge/src/main/generated/.cache/
 /Neoforge/runs/
-/Fabric/libs/

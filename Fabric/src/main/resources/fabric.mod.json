@@ -21,6 +21,9 @@
     ],
     "main": [
       "com.skniro.growable_ores_touhou_little_maid_compat.GrowableOresExtension"
+    ],
+    "little_maid_extension": [
+      "com.skniro.growable_ores_touhou_little_maid_compat.LittleMaidCompat"
     ]
   },
   "mixins": [
@@ -29,7 +32,8 @@
   "depends": {
     "fabricloader": ">=0.15.11",
     "fabric": "*",
-    "minecraft": "1.21.x",
-    "growable_ores": "*"
+    "minecraft": "1.20.x",
+    "growable_ores": "*",
+    "touhou_little_maid": "*"
   }
 }

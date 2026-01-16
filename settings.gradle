@@ -20,5 +20,5 @@ pluginManagement {
 }
 
 
-rootProject.name = 'Skniro\'s GrowableOres Touhou Little Maid Compat-1.21'
-include("Neoforge")
+rootProject.name = 'Skniro\'s GrowableOres Touhou Little Maid Compat-1.20.1'
+include("Forge","Fabric")

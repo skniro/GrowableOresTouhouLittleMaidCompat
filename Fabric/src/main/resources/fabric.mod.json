@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "growable_ores_snad_compat",
+  "id": "growable_ores_touhou_little_maid_compat",
   "version": "${version}",
-  "name": "Skniro's GrowableOres Snad Compat",
-  "description": "Add some growable ores extension.",
+  "name": "Skniro's GrowableOres Touhou Little Maid Compat",
+  "description": "Use task make maid can heavest ore cane.",
   "authors": [
     "skniro"
   ],
@@ -14,17 +14,17 @@
   "environment": "*",
   "entrypoints": {
     "fabric-datagen": [
-      "com.skniro.growable_ores_snad_compat.datagen.GrowableOresDataGeneration"
+      "com.skniro.growable_ores_touhou_little_maid_compat.datagen.GrowableOresDataGeneration"
     ],
     "client": [
-      "com.skniro.growable_ores_snad_compat.client.GrowableOresClient"
+      "com.skniro.growable_ores_touhou_little_maid_compat.client.GrowableOresClient"
     ],
     "main": [
-      "com.skniro.growable_ores_snad_compat.GrowableOresExtension"
+      "com.skniro.growable_ores_touhou_little_maid_compat.GrowableOresExtension"
     ]
   },
   "mixins": [
-    "growable_ores_snad_compat.mixins.json"
+    "growable_ores_touhou_little_maid_compat.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.15.11",

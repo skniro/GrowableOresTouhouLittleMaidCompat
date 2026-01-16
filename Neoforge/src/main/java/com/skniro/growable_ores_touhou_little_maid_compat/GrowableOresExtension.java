@@ -12,7 +12,7 @@ import org.slf4j.Logger;
 
 @Mod(GrowableOresExtension.MOD_ID)
 public class GrowableOresExtension implements ILittleMaid {
-    public static final String MOD_ID = "growable_ores_snad_compat";
+    public static final String MOD_ID = "growable_ores_touhou_little_maid_compat";
     private static final Logger LOGGER = LogUtils.getLogger();
 
 
